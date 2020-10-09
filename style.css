@@ -186,7 +186,7 @@ body {
 }
 
 .textarea {
-    min-width: 428px;
+    width: 428px;
     height: 144px;
     opacity: 0.4;
     border: 1px solid #356EAD;
