@@ -233,7 +233,7 @@ body {
 .map {
     width: 100%;
     display: flex;
-    background-image: url("https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A69308846e6a56e30c1e764907f7a3d212b1b9e7c6a2fd2622319231f0e5f8754&amp;width=409&amp;height=334&amp;lang=ru_RU&amp;scroll=true");
+e:  justify-content: center;
 }
 
 .footer {
