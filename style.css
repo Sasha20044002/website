@@ -492,7 +492,7 @@ hr {
     }
 
     .textarea {
-        min-width: 271.6px;
+        width: 271.6px;
         height: 92.52px;
         margin-right: 0;
     }
